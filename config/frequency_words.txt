@@ -1,6 +1,5 @@
-明星
-娱乐
-八卦
+美股
+纳斯达克
 
 谷歌
 google
@@ -11,7 +10,6 @@ openai
 
 claude
 Anthropic
-
 
 ai
 人工智能
